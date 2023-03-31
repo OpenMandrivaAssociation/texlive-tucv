@@ -1,6 +1,6 @@
 Name:		texlive-tucv
 Version:	20680
-Release:	1
+Release:	2
 Summary:	Support for typesetting a CV or resumee
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tucv
