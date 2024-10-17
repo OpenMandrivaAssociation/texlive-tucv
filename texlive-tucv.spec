@@ -3,7 +3,7 @@ Version:	20680
 Release:	2
 Summary:	Support for typesetting a CV or resumee
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tucv
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tucv
 License:	OTHER-FREE
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tucv.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tucv.doc.r%{version}.tar.xz
